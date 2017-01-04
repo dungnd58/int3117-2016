@@ -1,17 +1,21 @@
 ﻿# Nhận xét bài tập của Lê Quyền Linh
 
 ## Nhận xét BT1
-- Ổn:  
+- Ổn:
+  + Mã nguồn đúng, chuẩn
 - Chưa ổn:
-  + Không có file `README.md`
-  + Thư mục không rõ ràng
-
+  + Đồ thị chưa đầy đủ
+  
 ## Nhận xét BT2
 - Ổn:
+  + Chương trình viết ổn
+  + Đo mức độ phủ thành công
+  + Code dễ đọc 
 - Chưa ổn:
-  + Chưa có báo cáo và folder BT2
+  + Đồ thị còn khá sơ sài
+  + Chưa bám sát đề bài
   
 ## Nhận xét BT3
 - Ổn:
-- Chưa ổn:
-  + Chưa có báo cáo và folder BT2
+  + Vẽ sơ đồ khối cho các biến rõ ràng, dễ hiểu
+  + Trình bày có kèm theo số, dễ đọc
